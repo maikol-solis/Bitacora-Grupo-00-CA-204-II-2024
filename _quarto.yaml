@@ -9,6 +9,8 @@ book:
   author: "Estudiante A, Estudiante B, Estudiante C"
   date: today
   search: true
+  repo-url: "https://github.com/maikol-solis/Bitacora-Grupo-00-CA-204-II-2024"
+  repo-actions: [edit, source]
   site-url: google.com # Vacío por el momento
   chapters:
     - "index.qmd"
