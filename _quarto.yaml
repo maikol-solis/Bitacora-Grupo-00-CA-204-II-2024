@@ -10,9 +10,9 @@ book:
   date: today
   search: true
   repo-url: "https://github.com/maikol-solis/Bitacora-Grupo-00-CA-204-II-2024"
+  site-url: "https://maikol-solis.github.io/Bitacora-Grupo-00-CA-204-II-2024/"
   repo-actions: [edit, source]
   downloads: [pdf]
-  site-url: google.com # Vacío por el momento
   chapters:
     - "index.qmd"
     - "bitacora-1.qmd"
