@@ -8,6 +8,7 @@ book:
   title: "Bitácoras Grupo #<su número>, CA-204 (II-2024)"
   author: "Estudiante A, Estudiante B, Estudiante C"
   date: today
+  search: true
   site-url: google.com # Vacío por el momento
   chapters:
     - "index.qmd"
